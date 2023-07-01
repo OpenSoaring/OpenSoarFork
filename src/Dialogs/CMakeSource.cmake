@@ -35,6 +35,7 @@ set(_SOURCES
         Dialogs/dlgCredits.cpp
         Dialogs/dlgInfoBoxAccess.cpp
         Dialogs/dlgQuickMenu.cpp
+        Dialogs/dlgTreeViewMenu.cpp
         Dialogs/dlgSimulatorPrompt.cpp
         Dialogs/dlgStatus.cpp
         Dialogs/DownloadFilePicker.cpp

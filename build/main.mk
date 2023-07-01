@@ -153,6 +153,7 @@ DIALOG_SOURCES = \
 	$(SRC)/Dialogs/Weather/RASPDialog.cpp \
 	$(SRC)/Dialogs/dlgCredits.cpp \
 	$(SRC)/Dialogs/dlgQuickMenu.cpp \
+	$(SRC)/Dialogs/dlgTreeViewMenu.cpp \
 
 ifeq ($(HAVE_PCM_PLAYER),y)
 DIALOG_SOURCES += \

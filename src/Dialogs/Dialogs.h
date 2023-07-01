@@ -19,3 +19,6 @@ void dlgCreditsShowModal(UI::SingleWindow &parent);
 
 void
 dlgQuickMenuShowModal(UI::SingleWindow &parent) noexcept;
+
+void
+dlgTreeViewMenuShowModal(UI::SingleWindow &parent) noexcept;

@@ -184,6 +184,7 @@ void eventFlarmDetails(const TCHAR *misc);
 void eventCredits(const TCHAR *misc);
 void eventWeather(const TCHAR *misc);
 void eventQuickMenu(const TCHAR *misc);
+void eventTreeViewMenu(const TCHAR *misc);
 void eventFileManager(const TCHAR *misc);
 void eventRunLuaFile(const TCHAR *misc);
 void eventResetTask(const TCHAR *misc);

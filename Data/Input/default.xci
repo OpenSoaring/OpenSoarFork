@@ -166,6 +166,7 @@ mode=default
 type=key
 data=F1
 event=QuickMenu
+event=Mode default
 
 mode=default
 type=key
