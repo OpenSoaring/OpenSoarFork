@@ -170,7 +170,8 @@ event=QuickMenu
 mode=default
 type=key
 data=F2
-event=Analysis
+## event=Analysis
+event=TreeViewMenu
 event=Mode default
 
 mode=default
@@ -997,6 +998,25 @@ data=6
 event=Traffic label toggle
 label=AVG/ALT
 location=5
+
+# -------------
+# mode=TreeViewMenu
+# -------------
+
+mode=TreeViewMenu
+type=key
+data=0
+event=QuickMenu
+label=Quick Menu
+location=1
+
+mode=TreeViewMenu
+type=key
+data=0
+event=Exit system
+event=Mode default
+label=Quit
+location=2
 
 # -------------
 # mode=RemoteStick
